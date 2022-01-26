@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758592592113",
+    "project_id": "carrent-11f94",
+    "storage_bucket": "carrent-11f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758592592113:android:cb457de4b10b9cae19f150",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758592592113-itg5ftk22luhijicdmb3ude6n1qvsbg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF5alvsSQmUv8BnBdGkwzgbhIbf6sjWHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758592592113-itg5ftk22luhijicdmb3ude6n1qvsbg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
